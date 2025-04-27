@@ -1,12 +1,52 @@
-# React + Vite
+# Personal Finance Tracker 💰
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple personal finance tracker built with React and Chart.js.
+Users can:
+- Add transactions (amount, category, description, date)
+- See total monthly spending
+- Visualize data using Pie and Line charts
+- Filter and store data using localStorage
 
-Currently, two official plugins are available:
+## 🛠 Features
+- Add new transactions
+- Dashboard showing total spending
+- Pie chart: spending by category
+- Line chart: spending trend over months
+- Persistent data with localStorage
+- Deployed on GitHub Pages
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshots
 
-## Expanding the ESLint configuration
+(Add your app screenshot here if you want.)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Live Demo
+
+[Click here to view it live!]([https://tranquil-mochi-077266.netlify.app/])
+
+## 🧰 Tech Stack
+
+- React
+- Chart.js
+- LocalStorage API
+
+## 🛠 Installation
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+
+2. Install dependencies
+   ```bash
+   npm i
+   
+3. Run the app locally
+    ```bash
+   npm run dev
+    
+🙏 #Acknowledgements
+  * Chart.js
+  * React.js
+
+📜 License
+  This project is open source and available under the MIT License.
