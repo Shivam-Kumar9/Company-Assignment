@@ -22,10 +22,10 @@ function App() {
       <TransactionForm addTransaction={addTransaction} />
 
       <Dashboard totalSpending={totalSpending} />
+      <TransactionList transactions={transactions} />
 
       <Charts categoryData={categoryData} monthlyData={monthlyData} />
 
-      <TransactionList transactions={transactions} />
     </div>
   );
 }
