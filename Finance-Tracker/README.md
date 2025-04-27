@@ -1,6 +1,6 @@
 # Personal Finance Tracker 💰
 
-A simple personal finance tracker built with React and Chart.js.
+A  personal finance tracker built with React and Chart.js.
 Users can:
 - Add transactions (amount, category, description, date)
 - See total monthly spending
@@ -13,7 +13,6 @@ Users can:
 - Pie chart: spending by category
 - Line chart: spending trend over months
 - Persistent data with localStorage
-- Deployed on GitHub Pages
 
 ## 📸 Screenshots
 
