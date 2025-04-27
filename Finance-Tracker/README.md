@@ -44,9 +44,10 @@ Users can:
     ```bash
    npm run dev
     
-🙏 #Acknowledgements
+#🙏 Acknowledgements
   * Chart.js
   * React.js
 
-📜 License
+#📜 License
+
   This project is open source and available under the MIT License.
