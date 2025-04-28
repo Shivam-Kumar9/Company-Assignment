@@ -14,13 +14,11 @@ Users can:
 - Line chart: spending trend over months
 - Persistent data with localStorage
 
-## 📸 Screenshots
-
-(Add your app screenshot here if you want.)
+ 
 
 ## 🚀 Live Demo
 
-[Click here to view it live!]([https://tranquil-mochi-077266.netlify.app/])
+[Click here to view it live!]([https://tranquil-mochi-077266.netlify.app])
 
 ## 🧰 Tech Stack
 
