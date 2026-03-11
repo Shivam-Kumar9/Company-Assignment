@@ -1,0 +1,25 @@
+.dashboard {
+  padding: 20px;
+}
+
+.main {
+  display: flex;
+  gap: 20px;
+}
+
+.viewer {
+  flex: 3;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.componentList {
+  flex: 1;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+img {
+  max-width: 100%;
+  
+}
